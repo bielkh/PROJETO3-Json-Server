@@ -1,0 +1,120 @@
+{
+    "menu": [
+        {
+            "id":1,
+            "nome": "Strogonoff de Carne",
+            "descricao": "Delicioso Strogonoff de Carne com Champignon, acompanha Arroz e Batata Palha ou Batata Frita",
+            "preco": 25.00,
+            "tempo de preparo": "20 minutos",
+            "imagem":"https://www.receitasdeliciosasnamesa.com/wp-content/uploads/2020/10/Como-fazer-strogonoff-de-carne-de-gado.jpg",
+            "categoria_id": 1
+        },
+        {
+            "id":2,
+            "nome": "Lasanha Bolonhesa",
+            "descricao": "Lasanha bolonhesa com molho branco, queijo e presunto. Acompanha Arroz, Salada ou Batata Frita.",
+            "preco": 34.00,
+            "tempo de preparo": "35 minutos",
+            "imagem":"https://img.itdg.com.br/tdg/images/recipes/000/000/876/324587/324587_original.jpg?mode=crop&width=710&height=400",
+            "categoria_id": 2
+        },
+        {
+            "id":3,
+            "nome": "Feijoada",
+            "descricao": "Feijoada completa. Acompanha arroz, farofa, torresmo e couve.",
+            "preco": 30.00,
+            "tempo de preparo": "30 minutos",
+            "imagem":"https://img.itdg.com.br/tdg/images/recipes/000/002/998/355811/355811_original.jpg?mode=crop&width=710&height=400",
+            "categoria_id": 3
+        }
+    ],
+        "chefes de cozinha": [
+            {
+                "id":1,
+                "nome": "Gabriel",
+                "cargo": "Chefe",
+                "setor": "Carnes",
+                "especialidade":"carne bovina",
+                "imagem":"https://img.freepik.com/fotos-gratis/retrato-de-um-chef-masculino-bonito-vestido-de-uniforme_171337-5352.jpg?w=2000",
+                "categoria_id": 1
+            },
+            {
+                "id":2,
+                "nome": "Paulo",
+                "cargo": "Assistente",
+                "setor": "Acompanhamentos",
+                "especialidade": "molhos",
+                "imagem":"https://gestaoderestaurantes.com.br/blog/wp-content/uploads/2017/11/03112017-2.jpg",
+                "categoria_id": 2
+            },
+            {
+                "id":3,
+                "nome": "Yasmin",
+                "cargo": "Auxiliar",
+                "setor": "Finalização",
+                "especialidade": "entrega rápida",
+                "imagem":"https://www.unileverfoodsolutions.com.br/dam/global-ufs/mcos/sla/brazil/recipes/apresentcao%20de%20pratos%20(2).jpg",
+                "categoria_id": 3
+            }
+        ],
+        "funcionarios": [
+            {
+                "id":1,
+                "nome": "Carlos",
+                "turno": "manhã",
+                "cargo": "garçom",
+                "salario": "1800",
+                "imagem":"https://cptstatic.s3.amazonaws.com/imagens/enviadas/materias/materia11097/slide/19treinamento-garcom-cursos-cpt.jpg",
+                "categoria_id": 1
+            },
+            {
+                "id":2,
+                "nome": "Cristina",
+                "turno": "noite",
+                "cargo": "bartender",
+                "salario": "2000",
+                "imagem":"https://www.hypeness.com.br/1/2019/03/bartenders-mulheres-no-bar-12.jpg",
+                "categoria_id": 2
+            },
+            {
+                "id":3,
+                "nome": "Yasmin",
+                "turno": "noite",
+                "cargo": "garçonete",
+                "salario": "2500",
+                "imagem":"http://shopblob.blob.core.windows.net/1204-produtoimagem/zoom-ff-GARCONETE(0)(1).jpg",
+                "categoria_id": 3
+            }
+        ],
+        "clientes": [
+            {
+                "id":1,
+                "nome": "Rodrigo",
+                "nota pro restaurante": "10",
+                "come": "sempre no jantar, sempre pede strogonoff de carne",
+                "emprego": "programador",
+                "imagem":"https://img.freepik.com/fotos-gratis/homem-comendo-pratos-diferentes-de-comida_23-2147681103.jpg?w=2000",
+                "categoria_id": 1
+            },
+            {
+                "id":2,
+                "nome": "Flavia",
+                "nota pro restaurante": "8",
+                "come": "sempre no almoço, sempre pede feijoada",
+                "emprego": "auxiliar administrativa",
+                "imagem":"https://cdn.acritica.net/upload/dn_noticia/2019/05/1557764135.jpg",
+                "categoria_id": 2
+            },
+            {
+                "id":3,
+                "nome": "Viviane",
+                "nota pro restaurante": "9,5",
+                "come": "no almoço e no jantar, sempre pede lasanha",
+                "emprego": "CEO",
+                "imagem":"https://media.istockphoto.com/id/1096935480/pt/foto/beautiful-woman-eating-fresh-salad-at-restaurant.jpg?s=1024x1024&w=is&k=20&c=Uad9fYem3szJ1eyt95r-UwTp1GFuM1U2Lxd0I3TpFR4=",
+                "categoria_id": 3
+            }
+            
+        ]
+        
+    }
