@@ -38,7 +38,7 @@ Rotas personalizadas utilizadas para manipulação de informações
 | `PUT` | `/"nome do caminho"/update/:id	` | /:recurso/:id|
 | `DELETE` | `/"nome do caminho"/delete/:id` | /:recurso/:id|
 
-###Nomes dos caminhos:
+# Nomes dos caminhos:
 - Funcionarios
 - Clientes
 - Chefes
