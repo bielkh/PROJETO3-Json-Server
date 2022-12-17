@@ -30,13 +30,13 @@ Se quiser clonar esse repositório, você precisa fazer isso:
 Rotas personalizadas utilizadas para manipulação de informações
 
 
-| metodo  | caminho       | response                           |
+| metodo  | caminho       | exemplo                      |
 | :---------- | :--------- | :---------------------------------- |
-| `GET (see all)` | `/"nome do caminho"/list	` | 	/:recurso|
-| `GET` | `	/"nome do caminho"/get/:id	` | /:recurso/:id|
-| `POST` | `/"nome do caminho"/create		` | 	/:recurso|
-| `PUT` | `/"nome do caminho"/update/:id	` | /:recurso/:id|
-| `DELETE` | `/"nome do caminho"/delete/:id` | /:recurso/:id|
+| `GET (see all)` | `/"nome do caminho"/	` | 	/funcionarios|
+| `GET` | `	/"nome do caminho"/get/:id	` | /chefes/2|
+| `POST` | `/"nome do caminho"/create		` | 	/clientes/"o que você quer colocar'|
+| `PUT` | `/"nome do caminho"/update/:id	` | /menu/"o que você quer colocar|
+| `DELETE` | `/"nome do caminho"/delete/:id` | /clientes/delete/1|
 
 ### Nomes dos caminhos:
 - Funcionarios
