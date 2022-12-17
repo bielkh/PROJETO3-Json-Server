@@ -32,11 +32,17 @@ Rotas personalizadas utilizadas para manipulação de informações
 
 | metodo  | caminho       | response                           |
 | :---------- | :--------- | :---------------------------------- |
-| `GET (see all)` | `/:recurso/list	` | 	/:recurso|
-| `GET` | `	/:recurso/get/:id	` | /:recurso/:id|
-| `POST` | `/:recurso/create		` | 	/:recurso|
-| `PUT` | `/:recurso/update/:id	` | /:recurso/:id|
-| `DELETE` | `/:recurso/delete/:id` | /:recurso/:id|
+| `GET (see all)` | `/"nome do caminho"/list	` | 	/:recurso|
+| `GET` | `	/"nome do caminho"/get/:id	` | /:recurso/:id|
+| `POST` | `/"nome do caminho"/create		` | 	/:recurso|
+| `PUT` | `/"nome do caminho"/update/:id	` | /:recurso/:id|
+| `DELETE` | `/"nome do caminho"/delete/:id` | /:recurso/:id|
+
+###Nomes dos caminhos:
+- Funcionarios
+- Clientes
+- Chefes
+- Menu
 
 ## Referência
 
