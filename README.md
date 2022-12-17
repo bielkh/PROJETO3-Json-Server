@@ -17,8 +17,14 @@ O objetivo do terceiro projeto individual do programa Programadores Cariocas é 
 
 
 ## Demonstração
-
 https://restaurantebiel.onrender.com/ 
+Se quiser clonar esse repositório, você precisa fazer isso: 
+1 - Clone meu repositório
+2 - no terminal, faça "npm -i"
+3 - depois faça ng serve
+E pronto. Happy Coding!
+
+
 
 ## Rotas Personalizadas
 Rotas personalizadas utilizadas para manipulação de informações
@@ -29,7 +35,7 @@ Rotas personalizadas utilizadas para manipulação de informações
 | `GET (see all)` | `/:recurso/list	` | 	/:recurso|
 | `GET` | `	/:recurso/get/:id	` | /:recurso/:id|
 | `POST` | `/:recurso/create		` | 	/:recurso|
-| `PUT/PATCH` | `/:recurso/update/:id	` | /:recurso/:id|
+| `PUT` | `/:recurso/update/:id	` | /:recurso/:id|
 | `DELETE` | `/:recurso/delete/:id` | /:recurso/:id|
 
 ## Referência
