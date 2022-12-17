@@ -19,10 +19,10 @@ O objetivo do terceiro projeto individual do programa Programadores Cariocas é 
 ## Demonstração
 https://restaurantebiel.onrender.com/ 
 Se quiser clonar esse repositório, você precisa fazer isso: 
-1 - Clone meu repositório
-2 - no terminal, faça "npm -i"
-3 - depois faça ng serve
-E pronto. Happy Coding!
+- 1 - Clone meu repositório
+- 2 - no terminal, faça "npm -i"
+- 3 - depois faça ng serve
+- E pronto. Happy Coding!
 
 
 
