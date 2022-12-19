@@ -34,9 +34,9 @@ Rotas personalizadas utilizadas para manipulação de informações
 | :---------- | :--------- | :---------------------------------- |
 | `GET (see all)` | `/"nome do caminho"/	` | 	/funcionarios|
 | `GET` | `	/"nome do caminho"/get/:id	` | /chefes/2|
-| `POST` | `/"nome do caminho"/create		` | 	/clientes/"o que você quer colocar"|
-| `PUT` | `/"nome do caminho"/update/:id	` | /menu/"o que você quer colocar"|
-| `DELETE` | `/"nome do caminho"/delete/:id` | /clientes/delete/1|
+| `POST` | `/"nome do caminho"/create		` | 	/clientes/"ele vai criar automaticamente uma id nova"|
+| `PUT` | `/"nome do caminho"/update/:id	` | /menu/"mudar o que tem dentro da id de escolha"|
+| `DELETE` | `/"nome do caminho"/delete/:id` | /clientes/delete/"id que você quer deletar"|
 
 ### Nomes dos caminhos:
 - Funcionarios
