@@ -1,0 +1,18 @@
+{
+    "GET /menu": "GET/menu/get",
+    "POST /menu": "POST/menu/create",
+    "PUT /menu": "PUT/menu/update",
+    "DELETE /menu": "DELETE/menu/delete",
+    "GET /clientes": "GET/clientes/get",
+    "POST /clientes": "POST/clientes/create",
+    "PUT /clientes": "PUT/clientes/update",
+    "DELETE /clientes": "DELETE/clientes/delete",
+    "GET /chefes": "GET/chefes/get",
+    "POST /chefes": "POST/chefes/create",
+    "PUT /chefes": "PUT/chefes/update",
+    "DELETE /chefes": "DELETE/chefes/delete",
+    "GET /funcionarios": "GET/funcionarios/get",
+    "POST /funcionarios": "POST/funcionarios/create",
+    "PUT /funcionarios": "PUT/funcionarios/update",
+    "DELETE /funcionarios": "DELETE/funcionarios/delete"
+  }
