@@ -2,7 +2,7 @@
     "menu": [
         {
             "id":1,
-            "nome": "Strogonoff de Carne",
+            "nome": "Strogonoff de Carne do Metaverse",
             "descricao": "Delicioso Strogonoff de Carne com Champignon, acompanha Arroz e Batata Palha ou Batata Frita",
             "preco": 25.00,
             "tempo de preparo": "20 minutos",
@@ -11,7 +11,7 @@
         },
         {
             "id":2,
-            "nome": "Lasanha Bolonhesa",
+            "nome": "Lasanha Bolonhesa da programação",
             "descricao": "Lasanha bolonhesa com molho branco, queijo e presunto. Acompanha Arroz, Salada ou Batata Frita.",
             "preco": 34.00,
             "tempo de preparo": "35 minutos",
@@ -20,13 +20,76 @@
         },
         {
             "id":3,
-            "nome": "Feijoada",
+            "nome": "Feijoada virtual",
             "descricao": "Feijoada completa. Acompanha arroz, farofa, torresmo e couve.",
             "preco": 30.00,
             "tempo de preparo": "30 minutos",
             "imagem":"https://img.itdg.com.br/tdg/images/recipes/000/002/998/355811/355811_original.jpg?mode=crop&width=710&height=400",
             "categoria_id": 3
         }
+           {
+            "id":4,
+            "nome": "Cyber Expresso",
+            "descricao": "Café expresso quentinho no estilo cibernético",
+            "preco": 8.00,
+            "tempo de preparo": "35 minutos",
+            "imagem":"https://upload.wikimedia.org/wikipedia/commons/2/23/Captura_de_Tela_2017-08-30_%C3%A0s_23.42.42.png?mode=crop&width=710&height=400",
+            "categoria_id": 4
+        },
+   {
+            "id":5,
+            "nome": "Frappuccino First Blood",
+            "descricao": "Delicioso café gelado frappuccino de morango com pedaços e calda de morango. Inspirado na expressão 'First Blood' que significa a primeira morte do jogo. Opção com ou sem café.",
+            "preco": 16.50,
+            "tempo de preparo": "35 minutos",
+            "imagem":"https://media.moneytimes.com.br/uploads/2022/01/morango-maracuja-frappuccinoxx.jpg?mode=crop&width=710&height=400",
+            "categoria_id": 5
+        },
+   {
+            "id":6,
+            "nome": "Chá Healing Verde",
+            "descricao": "Chá delicioso verde e quente inspirado em poções de cura nos jogos. Ótimo para dias frios.",
+            "preco": 8.00,
+            "tempo de preparo": "35 minutos",
+            "imagem":"https://conteudo.imguol.com.br/c/entretenimento/02/2017/08/03/cha-verde-1501773798026_v2_4x3.jpg?mode=crop&width=710&height=400",
+            "categoria_id": 6
+        },
+   {
+            "id":7,
+            "nome": "Café com Leite do descanso",
+            "descricao": "Já sentiu vontade de parar sua aventura para tomar um tempo pra respirar? Esse café com leite é perfeito para isso.",
+            "preco": 9.00,
+            "tempo de preparo": "35 minutos",
+            "imagem":"https://tudodereceitas.com.br/wp-content/uploads/2022/08/cropped-Cafe-com-leite-cremoso-640x853.jpg?mode=crop&width=710&height=400",
+            "categoria_id": 7
+        },
+   {
+            "id":8,
+            "nome": "Frappuccino de Doce Leite Goomba",
+            "descricao": "Lembra do inimigo marrom do Super Mario? Esse Frappuccino delicioso de doce de leite é uma referência à ele.",
+            "preco": 16.50,
+            "tempo de preparo": "35 minutos",
+            "imagem":"https://www.receitasnestle.com.br/sites/default/files/srh_recipes/16486661140fcc6e971f5819bf85082c.jpg?mode=crop&width=710&height=400",
+            "categoria_id": 8
+        },
+   {
+            "id":9,
+            "nome": "Frappuccino de Chá Verde do Link",
+            "descricao": "Esse é frappuccino é nosso herói favorito. Vindo lá de Hyrule, ele vem para destruir as forças do mal!",
+            "preco": 9.00,
+            "tempo de preparo": "35 minutos",
+            "imagem":"https://soranews24.com/wp-content/uploads/sites/3/2020/11/Starbucks-Japan-Matcha-White-Chocolate-Frappuccino-Japanese-limited-edition-green-tea-Christmas-2020-3-1.jpg?mode=crop&width=710&height=400",
+            "categoria_id": 9
+        },
+   {
+            "id":10,
+            "nome": "Frappuccino Getsugatensho",
+            "descricao": "Frappuccino de Baunilha inspirado no ataque especial do protagonista de Bleach, Ichigo!",
+            "preco": 16.50,
+            "tempo de preparo": "35 minutos",
+            "imagem":"https://www.starbucks.pt/sites/starbucks-pt/files/styles/c10_2_col_text_560x467/public/2021-11/Vanilla%20Cream%20Frappuccino%C2%AE%20.jpeg.webp?itok=RxktLGE0?mode=crop&width=710&height=400",
+            "categoria_id": 10
+        },
     ],
         "chefes": [
             {
